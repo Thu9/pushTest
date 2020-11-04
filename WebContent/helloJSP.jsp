@@ -8,7 +8,8 @@
 </head>
 <body>
 
-Hello JSP
+Hello JSP<br/>
+<hr/>    
 
 </body>
 </html>
